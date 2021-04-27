@@ -1,3 +1,3 @@
 # This Website is a demo version of Deved development
 
--It is implemented in HTML and CSS and it is respo
+-It is implemented in HTML and CSS
